@@ -1,0 +1,15 @@
+{
+  "name": "places_tictactoe",
+  "version": "1.0.0",
+  "description": "Places REST API tutorial",
+  "main": "app.js",
+  "author": "Ansamb",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.9.2",
+    "express": "^4.10.2",
+    "request": "^2.48.0",
+    "underscore": "^1.7.0",
+    "yargs": "^1.3.3"
+  }
+}

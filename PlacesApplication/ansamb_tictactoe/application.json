@@ -1,0 +1,8 @@
+{
+  "name":"ansamb_tictactoe",
+  "contentType":"tictactoe",
+  "js":false,
+  "models_dir":"models",
+  "models_version":"0.0.1",
+  "author":"ansamb"
+}
